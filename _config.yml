@@ -1,2 +1,3 @@
 name: Device Not ready
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
